@@ -411,9 +411,9 @@ Initiate a closing handshake.
 
 ### websocket.extensions
 
-- {Object}
+- {String}
 
-An object containing the negotiated extensions.
+A string indicating the negotiated extensions.
 
 ### websocket.onclose
 
